@@ -21,7 +21,7 @@ There are three different datasets:
 
 **Date_tab (Calculated Table):** To derive extract week numbers and years based on Weekly_Demand_Data
 
-• Data has been modelled using ""Star Schema** as shown below:
+• Data has been modelled using **Star Schema** as shown below:
 ![Data_model](https://user-images.githubusercontent.com/29229114/179784940-a73833f7-146b-4da2-bbe3-558bc24092bb.png)
 
 
@@ -50,3 +50,4 @@ Following questions are identified to help the company which are answered by the
  There are 4 filters added: Year, Center Id, City Code, Meal Cateogory which helps to see analysis for anytime timeperiod, center, city or meal.
 ![filters](https://user-images.githubusercontent.com/29229114/179789944-05faac3a-ef09-458d-ada8-ec5c0bcb452d.gif)
 
+NOTE: Dataset and pbix file has not been shared here, incase you need them for your project please drop a mail at arorakshitiz96@gmail.com
